@@ -7,6 +7,8 @@ SVG to 3D spinning logo. Drop in an SVG, get a 3D render. Chrome, gold and gradi
 
 Drop in an SVG, get a 3D version of it. Spin your logo and export the loop as a GIF. Runs entirely in the browser.
 
+Try here: https://azeznassar.github.io/SVGimbal-SVG-to-3D-Spinning-Logo/
+
 
 ## Using it
 
